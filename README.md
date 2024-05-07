@@ -24,7 +24,7 @@
 
 <br><br>
 
-- :school: I am a `Junior` at [Software Development and Management Engineering]() at [University Technology of Durango](https://utd.edu.mx/).
+- :school: I am a `Sutend` at [Software Development and Management Engineering]() at [University Technology of Durango](https://utd.edu.mx/).
 - :technologist: I love using Software as a solution for every `Problem`.
 - :nerd_face: Always `learning new things`.
 - :thinking: I’m currently open for a new `job opportunity`.
