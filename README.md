@@ -5,18 +5,7 @@
 <p align="center">
 <a href="https://git.io/typing-svg" ><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B538F7&center=true&vCenter=true&random=false&width=435&lines=Student+Software+Engineer;Junior+Developer;Junior+JavScript" alt="Typing SVG" /></a>
 </p>
-<p align="center">
- <span style="width: 8px;"> </span>
-  <a href="https://twitter.com/Reexxy__" target="blank">
-    <img align="center" src="https://svgl.app/library/x_dark.svg" alt="X (Twitter)" height="23px" width="28px" />
-  </a>
-   <a href="https://instagram.com/save.gera" target="blank">
-    <img align="center" src="https://svgl.app/library/instagram_dark.svg" alt="Instragram" height="23px" width="28px" />
-  </a>
-  <a href="https://www.youtube.com/@reexxy7292" target="blank">
-     <img align="center" src="https://svgl.app/library/youtube.svg" alt="Instragram" height="23px" width="28px" />
-  </a>
-</p>
+
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
